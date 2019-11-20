@@ -8,4 +8,4 @@ or run using a standard webcam. See configuration in `conf.json` to setup as nec
 to run enter `python motion.py --conf conf.json` in terminal
 
 
-![Demo](https://imgur.com/jXJztg3)
+![Demo](https://media.giphy.com/media/dBO5ZlIo8sBJvlO8bZ/giphy.gif)
